@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Chat Widget Test</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      background-color: #f9f9f9;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+      padding: 2rem;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #333;
+    }
+    .instructions {
+      background: #eef;
+      padding: 1rem;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      margin-top: 1rem;
+    }
+    code {
+      background: #eee;
+      padding: 0.2rem 0.4rem;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Welcome!</h1>
+    <p>Your Azure Static Web App is running.</p>
+    
+    <div class="instructions">
+      <strong>Next step:</strong><br>
+      Paste your chat widget code right before the closing <code>&lt;/body&gt;</code> tag below.
+    </div>
+  </div>
+
+  <!-- Example placeholder for chat widget -->
+  <!-- Replace this script with your actual chat widget code -->
+  <!-- Example: <script src="https://example.com/chat-widget.js" async></script> -->
+  <script>
+    console.log("Chat widget placeholder loaded.");
+  </script>
+</body>
+</html>
